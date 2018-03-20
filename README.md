@@ -26,14 +26,6 @@ To begin using this template, choose one of the following options to get started
 
 ## Usage
 
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
 #### Gulp Tasks
 
 - `gulp` the default task that builds everything
@@ -42,14 +34,6 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 - `gulp minify-css` minifies the compiled CSS file
 - `gulp minify-js` minifies the themes JS file
 - `gulp copy` copies dependencies from node_modules to the vendor directory
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
 
 ## About
 
@@ -69,3 +53,9 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+
+## Image sources:
+- https://pixabay.com/en/piano-keyboard-musical-instruments-2827044/
+- https://pixabay.com/en/music-bright-shiny-background-3240719/
+- https://www.accountingweb.com/sites/default/files/styles/banner/public/cybersecurity_krulua.jpg?itok=kKp3U4hM
+- https://i.kinja-img.com/gawker-media/image/upload/s--29gOWOcP--/c_scale,fl_progressive,q_80,w_800/xchbfxcmsgod7leslyuq.jpg
